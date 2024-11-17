@@ -21,3 +21,6 @@
 3. Jalankan dengan perintah:
     ```bash
     python LineChart.py
+    ```
+
+    atau langsung dari file .ipynb:
