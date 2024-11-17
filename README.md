@@ -12,7 +12,7 @@
 
 ### Instalasi
 
-1. Pastikan Python 3.x sudah terinstal di sistem Anda.
+1. Clone project ini pada device anda, kemudian buka folder pada terminal. Pastikan Python 3.x sudah terinstal di sistem Anda. Lalu lakukan instalasi selanjutnya
 
 2. Install dependensi:
     ```bash
