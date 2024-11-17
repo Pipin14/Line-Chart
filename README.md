@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## LINE CHART BOKEH
     Program Python yang digunakan untuk membaca data dari file soal_chart_bokeh.txt, memproses data, dan kemudian menampilkan grafik line chart menggunakan library Bokeh.
     
@@ -12,7 +12,7 @@
 
 ### Instalasi
 
-1. Clone project ini pada device anda, kemudian buka folder pada terminal. Pastikan Python 3.x sudah terinstal di sistem Anda. Lalu lakukan instalasi selanjutnya
+1. Clone project ini pada device anda, kemudian buka folder pada terminal. Pastikan Python 3.x sudah terinstal di sistem Anda. Lalu lakukan instalasi selanjutnya hingga selesai.
 
 2. Install dependensi:
     ```bash
