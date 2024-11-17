@@ -67,7 +67,7 @@ for hour, bitrate in zip(avg_hours, avg_bitrates):
     print(f"{hour} jam: {bitrate} Mbps")
 
 p = figure(title="Testing Jaringan",
-           x_axis_label='Time (hours)',
+           x_axis_label='DATE TIME',
            y_axis_label='Speed (Mbps)',
            height=400, width=800)
 
